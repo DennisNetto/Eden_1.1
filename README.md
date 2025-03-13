@@ -3,4 +3,4 @@ After a little over two years of development from the original repo, this system
 
 Original Project (https://github.com/Harlento/SchedulingSystem)
 
-Time Minds (https://github.com/DennisNetto/Time-minds)
+(Rebrand) Time Minds (https://github.com/DennisNetto/Time_Minds_Source)
